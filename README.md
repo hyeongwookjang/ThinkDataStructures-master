@@ -1,3 +1,5 @@
+I have been trying this package for getting used to thinking about data stuctures and algorithm. 
+
 # ThinkDataStructures
 
 LaTeX source and supporting code for *Think Data Structures: Algorithms and Information Retrieval in Java*
